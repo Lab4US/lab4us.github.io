@@ -8,11 +8,12 @@ layout: page
 * Seminars
 * Projects
 * Research
+* Resources
 
 ### TAGS (1+): 
-* info
+* news
 * event
-* link
+* conference
 * project
 * publication
 * training
