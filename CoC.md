@@ -16,9 +16,11 @@ layout: page
 * conference
 * project
 * publication
+* opinion
 * training
 * student
 * phd
 * collaboration
 * polish
+* english
 * international
