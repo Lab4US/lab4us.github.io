@@ -32,3 +32,27 @@ h4,
 h5 {
   font-weight: 600;
 }
+
+// make Tables content wrap again
+.table-wrapper {
+  overflow-x: visible;
+  margin-bottom: 1rem;
+}
+
+.table-wrapper > table thead th,
+.table-wrapper > table tbody tr td {
+  padding: 0.4rem 1rem;
+  font-size: 95%;
+  white-space: normal;
+}
+
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  border-color: inherit;
+  border-style: solid;
+  border-width: 1px;
+}
