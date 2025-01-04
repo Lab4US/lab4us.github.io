@@ -5,7 +5,7 @@ order: 5
 title: Events Calendar
 ---
 
-![Lab4US](/assets/banners/Lab4US-banner-EN.webp)
+[![Lab4US](/assets/banners/Lab4US-banner-EN.webp "Lab4US banner")](https://lab4us.eu)
 
 ## 2025 (newest on top)
 
@@ -22,8 +22,8 @@ title: Events Calendar
 
 <tr>
 <td>
-    <p>2025-03-13 @ 10.30pm</p>
-    <p><a href="https://www.fuw.edu.pl/">FUW</a>, room ???<br/>(in person ONLY)</p>
+    <p>2025-03-13 @ 11.15am</p>
+    <p><a href="https://zfbweb.zfb.fuw.edu.pl/index.php/events/">FUW</a>, sala 0.14 bud.B<br/>(in person ONLY) :poland:</p>
 </td>
 <td>
     <p><a href="https://www.linkedin.com/in/mlewlabs/">dr Marcin Lewandowski</a></p>
@@ -35,8 +35,8 @@ title: Events Calendar
 
 <tr>
 <td>
-    <p>2025-01-15 @ 12.00pm</p>
-    <p><a href="https://www.ise.pw.edu.pl/">PW-ISE</a>, room ???<br/>(in person ONLY)</p>
+    <p>2025-01-15 @ 12.15pm</p>
+    <p><a href="https://www.ise.pw.edu.pl/">PW-ISE</a>, room 229<br/>(in person ONLY) :poland:</p>
 </td>
 <td>
     <p><a href="https://www.linkedin.com/in/mlewlabs/">dr Marcin Lewandowski</a></p>
@@ -50,7 +50,7 @@ title: Events Calendar
 <tr>
 <td>
     <p>2025-01-15 @ 10.15am</p>
-    <p><a href="https://www.ippt.pan.pl/">IPPT PAN</a>, room S5<br/>(in person ONLY)</p>
+    <p><a href="https://www.ippt.pan.pl/">IPPT PAN</a>, room S5<br/>(in person ONLY) :poland:</p>
 </td>
 <td>
     <p><a href="https://www.ippt.pan.pl/pracownicy/?osoba=hpiotrzk">dr inż. Hanna Piotrzkowska-Wróblewska</a></p>
