@@ -5,7 +5,7 @@ order: 4
 title: About Lab4US
 ---
 
-![Lab4US](/assets/banners/Lab4US-banner-EN.webp)
+[![Lab4US](/assets/banners/Lab4US-banner-EN.webp "Lab4US banner")](https://lab4us.eu)
 
 ***Lab4us*** is a non-profit initiative dedicated to animating R&D activities on ultrasound methods and applications.
 
