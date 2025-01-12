@@ -35,6 +35,20 @@ title: Events Calendar
 
 <tr>
 <td>
+    <p>2025-03-04 @ 11.30am</p>
+    <p><a href="https://ia.web.amu.edu.pl/seminaria/terminy-seminariow/">UAM, Katedra Akustyki</a><br/>(in person ONLY) :poland:</p>
+</td>
+<td>
+    <p><a href="https://www.linkedin.com/in/mlewlabs/">dr Marcin Lewandowski</a></p>
+    <p><b>Ultradźwięki w medycynie — wczoraj, dziś, jutro</b></p>
+    <p><i>W 1952 powstał Zakład Badań Drgań, co zapoczątkowało badania metod i zastosowań ultradźwięków w Polsce. Niedawno (w 2023), IPPT PAN obchodził 70-lat swojego istnienia i historii ultradźwięków w naszym kraju. Ultrasonografia wkroczyła do medycyny w latach 1960, a dzisiaj jest drugą najczęściej stosowaną modalnością obrazową (zaraz po RTG, za to przed CT i MRI).  
+    Przedstawię aktualne trendy rozwoju i zastosowań ultradźwięków w medycynie. Rozwijane obecnie metody daleko wykraczają poza klasyczny kanon diagnostyki obrazowej (B-mode + Doppler). Selektywny przegląd nowych technik i zastosowań ultradźwięków będzie zaprezentowany z perspektywy rozwiązań, prac i współpracy B+R realizowanych przez spółkę us4us.  
+    Seminarium jest elementem inicjatywy Lab4US (lab4us.eu), której celem jest animacja działań oraz współpracy w zakresie B+R i zastosowań ultradźwięków. Liczę, że przyczyni się ono do zwiększenia zainteresuje kadry naukowo-badawczej, doktorantów i studentów tą fascynującą i dynamicznie rozwijającą się tematyką. Zapraszamy do kontaktu i współpracy z nami!</i></p>
+</td>
+</tr>
+
+<tr>
+<td>
     <p>2025-01-15 @ 12.15pm</p>
     <p><a href="https://www.ise.pw.edu.pl/">PW-ISE</a>, room 229<br/>(in person ONLY) :poland:</p>
 </td>
